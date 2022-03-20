@@ -1,0 +1,17 @@
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\bin\Debug\net6.0-windows\201213082_Sillones.exe
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\bin\Debug\net6.0-windows\201213082_Sillones.deps.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\bin\Debug\net6.0-windows\201213082_Sillones.runtimeconfig.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\bin\Debug\net6.0-windows\201213082_Sillones.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\bin\Debug\net6.0-windows\ref\201213082_Sillones.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\bin\Debug\net6.0-windows\201213082_Sillones.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.vbproj.AssemblyReference.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\_201213082_Sillones.Form1.resources
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.vbproj.GenerateResource.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.AssemblyInfoInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.AssemblyInfo.vb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\ref\201213082_Sillones.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_TAREAP2\201213082_Sillones\obj\Debug\net6.0-windows\201213082_Sillones.genruntimeconfig.cache
